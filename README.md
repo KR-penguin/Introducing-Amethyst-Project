@@ -1,7 +1,7 @@
 
 Hello everyone, this is Ko_Peng.  
 Our team, N+ (NPLUS), is currently developing a new game.  
-<img width="4320" height="4320" alt="NPLUS 2" src="https://github.com/user-attachments/assets/fdb4d38f-980c-4ebf-af2f-dcebf8007de5" />
+<img width="320" height="320" alt="NPLUS 2" src="https://github.com/user-attachments/assets/fdb4d38f-980c-4ebf-af2f-dcebf8007de5" />
 
 
 The game is a **turn-based RPG for educational purposes**.  
